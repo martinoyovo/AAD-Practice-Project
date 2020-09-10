@@ -1,4 +1,4 @@
-# gads_project
+# Google AAP Practice Project
 
 App for classification
 
