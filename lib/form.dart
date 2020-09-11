@@ -152,7 +152,7 @@ class _FormeState extends State<Forme> {
                       borderRadius: BorderRadius.circular(6),
                       color: Colors.white,
                     ),
-                    padding: EdgeInsets.symmetric(vertical: 3, horizontal: 10),
+                    padding: EdgeInsets.fromLTRB(10, 3, 10, 1),
                     child: TextField(
                       style:
                           TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
@@ -170,7 +170,7 @@ class _FormeState extends State<Forme> {
                       borderRadius: BorderRadius.circular(6),
                       color: Colors.white,
                     ),
-                    padding: EdgeInsets.symmetric(vertical: 3, horizontal: 10),
+                    padding: EdgeInsets.fromLTRB(10, 3, 10, 1),,
                     child: TextField(
                       style:
                           TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
@@ -193,7 +193,7 @@ class _FormeState extends State<Forme> {
                   borderRadius: BorderRadius.circular(6),
                   color: Colors.white,
                 ),
-                padding: EdgeInsets.symmetric(vertical: 3, horizontal: 10),
+                padding: EdgeInsets.fromLTRB(10, 3, 10, 1),,
                 child: TextField(
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                   decoration: InputDecoration(
@@ -213,7 +213,7 @@ class _FormeState extends State<Forme> {
                   borderRadius: BorderRadius.circular(6),
                   color: Colors.white,
                 ),
-                padding: EdgeInsets.symmetric(vertical: 3, horizontal: 10),
+                padding: EdgeInsets.fromLTRB(10, 3, 10, 1),,
                 child: TextField(
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                   decoration: InputDecoration(
